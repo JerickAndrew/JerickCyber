@@ -8,6 +8,8 @@
 <h2>👨‍💻 Certifications:</h2>
 - <b>CyberSecurity for Everyone</b>
   - [(Completion of CyberSecurity for Everyone)](https:https://coursera.org/share/3529d99ff4c2e8d01b60495e52aeb00a)
+- <b>Foundations for CyberSecurity</b>
+   -(https:https://https://coursera.org/share/7a5de00d26ff879f98f71c40318e319d)
 
 
 
