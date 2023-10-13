@@ -6,6 +6,10 @@
   - Image Encryption and Decryption using XOR Symmetric key algorithm
 
 <h2>👨‍💻 Certifications:</h2>
+- <b>CyberSecurity for Everyone</b>
+  - [(Completion of CyberSecurity for Everyone)](https:https://coursera.org/share/3529d99ff4c2e8d01b60495e52aeb00a)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
