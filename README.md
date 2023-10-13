@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jerick Andrew ! <br/>
-
+<h2> I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike.</h2>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>File Encryption and Decryption</b>
